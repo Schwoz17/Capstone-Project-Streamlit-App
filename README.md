@@ -1,5 +1,4 @@
 # EduVibe AI
-
 EduVibe AI is an intelligent student productivity platform that combines Machine Learning and Generative AI to help students improve academic performance, discover career paths, and enhance learning efficiency.
 
 ---
@@ -24,9 +23,8 @@ EduVibe AI is an intelligent student productivity platform that combines Machine
 
 ---
 
-### File AI Assistant (NEW)
+### File AI Assistant
 Upload files and interact with them using AI.
-
 Supported formats:
 - PDF
 - TXT
@@ -105,12 +103,15 @@ git clone https://github.com/Schwoz17/Capstone-Project-Streamlit-App.git
 cd your-repo
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ---
 
 ## AUTHOR
-**Muiz Adeyemi**
 
-- Data Scientist & AI Builder  
+## Author
+**Adeyemi Muiz**
+
+- Data Scientist & AI  
 - GitHub: https://github.com/Schwoz17  
-- LinkedIn: https://linkedin.com/in/adeyemimuiz  
+- LinkedIn: https://linkedin.com/in/adeyemimuiz
