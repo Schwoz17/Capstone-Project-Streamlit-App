@@ -106,6 +106,8 @@ cd your-repo
 pip install -r requirements.txt
 streamlit run app.py
 
+---
+
 ## AUTHOR
 **Muiz Adeyemi**
 
