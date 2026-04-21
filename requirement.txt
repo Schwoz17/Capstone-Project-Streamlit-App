@@ -3,5 +3,6 @@ pandas
 scikit-learn
 numpy
 google-generativeai
+python-dotenv
 PyPDF2
 python-docx
