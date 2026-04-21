@@ -64,7 +64,7 @@ Capabilities:
 - NumPy
 
 ### Generative AI
-- Google Gemini API (Gemini 2.5 Flash)
+- Google Gemini API (Gemini 2.5 Flash Lite)
 
 ### File Handling
 - PyPDF2 (PDF)
