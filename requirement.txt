@@ -2,7 +2,7 @@ streamlit
 pandas
 scikit-learn
 numpy
-google-generativeai
+google.generativeai
 python-dotenv
 PyPDF2
 python-docx
